@@ -177,4 +177,4 @@ load-testing/results/
 !ARCHITECTURE.md
 !TRADEOFFS.md
 !LICENSE
-!.gitignore 
+!.gitignore .turbo/
