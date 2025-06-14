@@ -1,4 +1,4 @@
-# 🚀 FAANG-Grade Real-Time Chat & Video Platform
+# Real-Time Chattting Platform
 
 A production-ready, scalable real-time chat and video calling platform demonstrating **top 5% system design knowledge** and **FAANG/quant-grade engineering standards**. Built to handle **10,000+ concurrent users** with sub-100ms latency and 99.9% uptime.
 
@@ -7,7 +7,7 @@ A production-ready, scalable real-time chat and video calling platform demonstra
 [![Documentation](https://img.shields.io/badge/Documentation-Complete-brightgreen.svg)](./TRADEOFFS.md)
 [![Monitoring](https://img.shields.io/badge/Monitoring-Grafana%20%2B%20Prometheus-orange.svg)](http://localhost:3000)
 
-## 🎯 **System Capabilities**
+##  **System Capabilities**
 
 ### 📊 **Performance Benchmarks**
 - **10,000+ concurrent WebSocket connections**
@@ -16,7 +16,7 @@ A production-ready, scalable real-time chat and video calling platform demonstra
 - **99.9% uptime SLA**
 - **<2s connection establishment**
 
-### 🏗️ **FAANG-Grade Architecture**
+### Architecture**
 - **Microservices**: Domain-separated services (Auth, Chat, Video)
 - **Load Balancing**: NGINX with sticky sessions and health checks
 - **Message Queues**: Kafka for reliable async processing
@@ -247,5 +247,3 @@ This project demonstrates **FAANG-grade system design and engineering practices*
 - 📈 **Linear scaling to 10K+ users**
 
 ---
-
-*Built with ❤️ for engineering excellence and system design mastery.* 
